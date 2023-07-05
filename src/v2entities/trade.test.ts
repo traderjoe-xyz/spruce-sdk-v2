@@ -5,7 +5,7 @@ import {
   TokenAmount,
   JSBI,
   Percent
-} from '@traderjoe-xyz/sdk'
+} from '@traderjoe-team/spruce-sdk'
 import { PairV2 } from './pair'
 import { RouteV2 } from './route'
 import { TradeV2 } from './trade'

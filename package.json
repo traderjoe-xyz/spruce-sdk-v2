@@ -1,13 +1,13 @@
 {
-  "name": "@traderjoe-xyz/sdk-v2",
+  "name": "@traderjoe-team/spruce-sdk-v2",
   "license": "MIT",
-  "version": "2.0.6",
+  "version": "1.0.0",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/traderjoe-xyz/joe-sdk-v2",
+  "repository": "https://github.com/traderjoe-xyz/spruce-sdk-v2",
   "keywords": [
     "traderjoe-xyz",
     "avalanche"
@@ -27,7 +27,7 @@
     ]
   },
   "dependencies": {
-    "@traderjoe-xyz/sdk": "^4.0.5",
+    "@traderjoe-team/spruce-sdk": "^1.0.5",
     "jsbi": "^3.1.1",
     "lodash.flatmap": "^4.5.0",
     "tiny-invariant": "^1.1.0",

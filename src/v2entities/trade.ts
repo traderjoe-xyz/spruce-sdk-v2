@@ -8,7 +8,7 @@ import {
   TradeType,
   ChainId,
   WNATIVE
-} from '@traderjoe-xyz/sdk'
+} from '@traderjoe-team/spruce-sdk'
 import JSBI from 'jsbi'
 import invariant from 'tiny-invariant'
 

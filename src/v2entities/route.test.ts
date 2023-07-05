@@ -1,4 +1,4 @@
-import { ChainId, WNATIVE, Token } from '@traderjoe-xyz/sdk'
+import { ChainId, WNATIVE, Token } from '@traderjoe-team/spruce-sdk'
 import { PairV2 } from './pair'
 import { RouteV2 } from './route'
 import { describe, it, expect } from 'vitest'

@@ -5,7 +5,7 @@ const {
   WNATIVE,
   TokenAmount,
   Trade
-} = require('@traderjoe-xyz/sdk')
+} = require('@traderjoe-team/spruce-sdk')
 const { parseUnits } = require('@ethersproject/units')
 const { JsonRpcProvider } = require('@ethersproject/providers')
 const JSBI = require('JSBI')

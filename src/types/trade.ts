@@ -1,4 +1,4 @@
-import { Percent, TokenAmount } from '@traderjoe-xyz/sdk'
+import { Percent, TokenAmount } from '@traderjoe-team/spruce-sdk'
 import { Hex } from 'viem'
 
 export enum PoolVersion {

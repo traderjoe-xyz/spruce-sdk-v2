@@ -6,7 +6,7 @@ import {
   TokenAmount,
   Fraction,
   ChainId
-} from '@traderjoe-xyz/sdk'
+} from '@traderjoe-team/spruce-sdk'
 
 import {
   LBPair,

@@ -31,7 +31,7 @@ yarn test
 
 ## Installation
 
-This project is available as an npm package. Add to your project with `npm install @traderjoe-xyz/sdk-v2`
+This project is available as an npm package. Add to your project with `npm install @traderjoe-team/spruce-sdk-v2`
 
 ## Attribution
 
