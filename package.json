@@ -27,7 +27,7 @@
     ]
   },
   "dependencies": {
-    "@traderjoe-team/spruce-sdk": "^1.0.9",
+    "@traderjoe-team/spruce-sdk": "^1.0.10",
     "jsbi": "^3.1.1",
     "lodash.flatmap": "^4.5.0",
     "tiny-invariant": "^1.1.0",
