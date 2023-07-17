@@ -1782,10 +1782,10 @@
     "@stablelib/random" "^1.0.2"
     "@stablelib/wipe" "^1.0.1"
 
-"@traderjoe-team/spruce-sdk@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@traderjoe-team/spruce-sdk/-/spruce-sdk-1.0.8.tgz#ea9a79732f596842ff553ba2788f0b2083297977"
-  integrity sha512-wpRw7iCKph+yIFMlZlimmWRoHbwTUkcRUY3eSgPiq+mtx4uIkKH0RBlnbo0Rc8rK4TbkV9qJ18pwn/S2Q7dHLw==
+"@traderjoe-team/spruce-sdk@^1.0.9":
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/@traderjoe-team/spruce-sdk/-/spruce-sdk-1.0.9.tgz#cc885a2ec53da9973a178dd5ed4193ff995afb83"
+  integrity sha512-a4XyY65XaRxmYvIrLABDtOkdCj4jLEOF6etIbZiFiNhhVZRVUuZyeMWAPIk+AEFac3Gjm79Ri4uJzAA2v9PAiQ==
   dependencies:
     "@wagmi/core" "^1.3.5"
     big.js "^5.2.2"
