@@ -36,7 +36,7 @@ export const LB_FACTORY_ADDRESS: { [chainId in ChainId]: Hex } = {
 
 export const LB_FACTORY_V21_ADDRESS: { [chainId in ChainId]: Hex } = {
   [ChainId.FUJI]: '0x8e42f2F4101563bF679975178e880FD87d3eFd4e',
-  [ChainId.SPRUCE]: '0x8e42f2F4101563bF679975178e880FD87d3eFd4e'
+  [ChainId.SPRUCE]: '0xB1e7550097041449C8035a094bDedFB3f5316F2e'
 }
 
 export const DEXLENS_ADDRESS: { [chainId in ChainId]: Hex } = {
